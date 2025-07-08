@@ -23,7 +23,7 @@ function Footer() {
             </div>
           </div>
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold">Layanan</h3>
+            <h3 className="text-lg font-bold">Layanan</h3>
             <div className="space-y-2 text-gray-400">
               <p>Penilaian Kinerja</p>
               <p>Manajemen Target</p>
